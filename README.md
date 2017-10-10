@@ -1,2 +1,2 @@
 # TPBoulanger
-copie du site boulanger
+TP d'une copie front du site boulanger
